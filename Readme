@@ -1,0 +1,4 @@
+1. The user specifies the number of dice they want to roll.
+2. For each die, a random number between 1 and 6 is generated.
+3. The program prints the dice faces horizontally.
+4. Finally, it calculates and displays the total sum of the rolled dice.
